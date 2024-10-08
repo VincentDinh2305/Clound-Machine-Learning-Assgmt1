@@ -1,0 +1,65 @@
+{
+    "Entities": [
+        {
+            "Id": 1,
+            "BeginOffset": 0,
+            "EndOffset": 10,
+            "Score": 0.7864455580711365,
+            "Text": "Dinh Hoang",
+            "Category": "PROTECTED_HEALTH_INFORMATION",
+            "Type": "NAME",
+            "Traits": []
+        },
+        {
+            "Id": 2,
+            "BeginOffset": 16,
+            "EndOffset": 22,
+            "Score": 0.4419202506542206,
+            "Text": "Phuong",
+            "Category": "PROTECTED_HEALTH_INFORMATION",
+            "Type": "NAME",
+            "Traits": []
+        },
+        {
+            "Id": 3,
+            "BeginOffset": 23,
+            "EndOffset": 53,
+            "Score": 0.9975419044494629,
+            "Text": "hdinh7@my.centennialcollege.ca",
+            "Category": "PROTECTED_HEALTH_INFORMATION",
+            "Type": "EMAIL",
+            "Traits": []
+        },
+        {
+            "Id": 4,
+            "BeginOffset": 54,
+            "EndOffset": 68,
+            "Score": 0.35726454854011536,
+            "Text": "(647)-550-6878",
+            "Category": "PROTECTED_HEALTH_INFORMATION",
+            "Type": "PHONE_OR_FAX",
+            "Traits": []
+        },
+        {
+            "Id": 5,
+            "BeginOffset": 69,
+            "EndOffset": 93,
+            "Score": 0.824181079864502,
+            "Text": "272 Berkeley St, Toronto",
+            "Category": "PROTECTED_HEALTH_INFORMATION",
+            "Type": "ADDRESS",
+            "Traits": []
+        },
+        {
+            "Id": 6,
+            "BeginOffset": 98,
+            "EndOffset": 140,
+            "Score": 0.16684375703334808,
+            "Text": "M5A 2X5 Toronto Ontario Centennial College",
+            "Category": "PROTECTED_HEALTH_INFORMATION",
+            "Type": "ADDRESS",
+            "Traits": []
+        }
+    ],
+    "ModelVersion": "1.1.0"
+}

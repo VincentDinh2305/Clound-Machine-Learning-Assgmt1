@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5607037544250488,
+            "Type": "PERSON",
+            "Text": "Dinh",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.30359014868736267,
+            "Type": "ORGANIZATION",
+            "Text": "Hoang",
+            "BeginOffset": 5,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.34439462423324585,
+            "Type": "PERSON",
+            "Text": "Viet",
+            "BeginOffset": 11,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5598875880241394,
+            "Type": "OTHER",
+            "Text": "Phuong",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9784224033355713,
+            "Type": "OTHER",
+            "Text": "hdinh7@my.centennialcollege.ca",
+            "BeginOffset": 23,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9267087578773499,
+            "Type": "OTHER",
+            "Text": "(647)-550-6878 272",
+            "BeginOffset": 54,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.7767987847328186,
+            "Type": "LOCATION",
+            "Text": "Berkeley St, Toronto, ON M5A 2X5",
+            "BeginOffset": 73,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.696755588054657,
+            "Type": "ORGANIZATION",
+            "Text": "Toronto Ontario Centennial College",
+            "BeginOffset": 106,
+            "EndOffset": 140
+        }
+    ]
+}
